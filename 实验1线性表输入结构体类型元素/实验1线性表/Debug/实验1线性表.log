@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(实验1线性表.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Linear List.c
+D:\数据结构\数据结构代码\实验1线性表输入结构体类型元素\实验1线性表\Datahead.h(42,32): warning C4013: “malloc”未定义；假设外部返回 int
+D:\数据结构\数据结构代码\实验1线性表输入结构体类型元素\实验1线性表\Datahead.h(43,23): warning C4013: “exit”未定义；假设外部返回 int
+D:\数据结构\数据结构代码\实验1线性表输入结构体类型元素\实验1线性表\Datahead.h(57,47): warning C4013: “realloc”未定义；假设外部返回 int
+D:\数据结构\数据结构代码\实验1线性表输入结构体类型元素\实验1线性表\Datahead.h(110,31): warning C4013: “strlen”未定义；假设外部返回 int
+D:\数据结构\数据结构代码\实验1线性表输入结构体类型元素\实验1线性表\Linear List.c(43,21): warning C4013: “gets”未定义；假设外部返回 int
+D:\数据结构\数据结构代码\实验1线性表输入结构体类型元素\实验1线性表\Linear List.c(15,17): warning C4101: “x”: 未引用的局部变量
+D:\数据结构\数据结构代码\实验1线性表输入结构体类型元素\实验1线性表\Datahead.h(122): warning C4715: “compare”: 不是所有的控件路径都返回值
+  实验1线性表.vcxproj -> D:\数据结构\数据结构代码\实验1线性表输入结构体类型元素\Debug\实验1线性表输入结构体类型元素.exe

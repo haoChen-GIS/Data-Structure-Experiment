@@ -1,0 +1,23 @@
+﻿  Binary Tree.c
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\Binary Tree.c(30,1): error C2011: “BiTNode”:“struct”类型重定义
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\DataHead.h(16): message : 参见“BiTNode”的声明
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\Binary Tree.c(46,6): error C2084: 函数“void CreateBiTree(BiTree *)”已有主体
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\DataHead.h(33): message : 参见“CreateBiTree”的前一个定义
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\Binary Tree.c(63,8): error C2084: 函数“Status PrintChar(TElemType)”已有主体
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\DataHead.h(50): message : 参见“PrintChar”的前一个定义
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\Binary Tree.c(70,8): error C2084: 函数“Status PreOrderTraverse(BiTree,Status (__cdecl *)(TElemType))”已有主体
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\DataHead.h(57): message : 参见“PreOrderTraverse”的前一个定义
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\Binary Tree.c(84,7): error C2084: 函数“void InOrderTraverse(BiTree)”已有主体
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\DataHead.h(71): message : 参见“InOrderTraverse”的前一个定义
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\Binary Tree.c(96,6): error C2084: 函数“void Postorder(BiTree)”已有主体
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\DataHead.h(83): message : 参见“Postorder”的前一个定义
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\Binary Tree.c(107,5): error C2084: 函数“int nodes(BiTree)”已有主体
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\DataHead.h(94): message : 参见“nodes”的前一个定义
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\Binary Tree.c(119,5): error C2084: 函数“int leafs(BiTree)”已有主体
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\DataHead.h(106): message : 参见“leafs”的前一个定义
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\Binary Tree.c(132,6): error C2084: 函数“void swap(BiTree)”已有主体
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\DataHead.h(119): message : 参见“swap”的前一个定义
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\Binary Tree.c(147,5): error C2084: 函数“int depth(BiTree)”已有主体
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\DataHead.h(134): message : 参见“depth”的前一个定义
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\Binary Tree.c(168,5): error C2084: 函数“int ChangeValue(BiTree)”已有主体
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\DataHead.h(155): message : 参见“ChangeValue”的前一个定义

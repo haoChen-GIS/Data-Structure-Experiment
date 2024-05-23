@@ -1,0 +1,5 @@
+﻿  Binary Tree.c
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\DataHead.h(38,13): warning C4477: “scanf_s”: 格式字符串“%c”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\DataHead.h(38,13): message : 此参数用作缓冲区大小
+D:\数据结构\数据结构代码\实验3 二叉树\实验3 二叉树\DataHead.h(166): warning C4715: “ChangeValue”: 不是所有的控件路径都返回值
+  实验3 二叉树.vcxproj -> D:\数据结构\数据结构代码\实验3 二叉树\x64\Debug\实验3 二叉树.exe
